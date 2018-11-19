@@ -1,6 +1,6 @@
 # bcl2fastq
 bcl2fastq by Illumina
-Elaborate manual with information on manual installation w/o Docker can be found here:
+Elaborate manual with information on manual installation w/o Docker and more options for conversion can be found here:
 
 https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq_letterbooklet_15038058brpmi.pdf
 
